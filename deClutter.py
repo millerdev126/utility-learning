@@ -7,10 +7,12 @@ clutterpath = path + "Clutter/"
 imagepath = path + "Images/"
 pptpath = path + "Presentations/"
 docpath = path + "Documents/"
+mediapath = path + "Media/"
 
 docexts = ['.txt', '.doc', '.docx', '.xlsx','.xlsm', '.pdf']
 imageexts = ['.jpg', '.jpeg', '.png', '.gif', '.tif', '.tiff']
 pptexts = ['.ppt', '.pptx', '.pptm']
+mediaexts = ['.mp3', '.wav', '.mp4', '.mov']
 
 files = os.listdir(path)
 
@@ -26,6 +28,9 @@ if not os.path.exists(pptpath):
     
 if not os.path.exists(docpath):
     os.makedirs(docpath)
+    
+if not os.path.exists(mediapath):
+    ls.makedirs(mediapath)
 
 for f in files:
     # Split the file extension from the file name
@@ -42,24 +47,23 @@ for f in files:
         src = path + f
         dst = docpath + f
         shutil.move(src,dst)
-        #print (f + ' belongs in the Document folder.')
     # Handle images here
     elif ext in imageexts:
         src = path + f
         dst = imagepath + f
         shutil.move(src,dst)
-        #print (f + ' belongs in the Image folder.')
     # Handle ppts here
     elif ext in pptexts:
         src = path + f
         dst = pptpath + f
         shutil.move(src,dst)
-        #print (f + ' belongs in the PowerPoint folder.')
-    # Send anything else to the clutter folder
+    elif ext in mediaexts:
+        src = path + f
+        dst = mediapath + f
+        shutil.move(src,dst)
+    # Send everything else to the clutter folder
     else:
         src = path + f
         dst = clutterpath + f
         shutil.move(src,dst)
-        #print ("I'm not sure what " + f
-               #+ " is so I'm putting it in the clutter folder.")
         
