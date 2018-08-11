@@ -1,3 +1,10 @@
+'''
+This script is designed specifically for downloading 500+ academic papers from a website.
+(https://dl.acm.org/advsearch.cfm?coll=DL&dl=ACM)
+
+It is being worked on as a prototype.
+'''
+
 from selenium import webdriver
 
 isbn_list = ['978-1-4503-5589-6']
@@ -28,11 +35,11 @@ add_crit.click()
 driver.implicitly_wait(2)
 
 # find criteria 2 drop down and click it
-criteria_2 = driver.find_element_by_id("fld1")
+criteria_2 = driver.find_element_by_id('fld1')
 criteria_2.click()
 
 # find and select the isbn/issn option
-isbn_option = driver.find_element_by_css_selector('[value = "isbnissn.isbnissn:"]')
+isbn_option = driver.find_element_by_css_selector('[value = "isbnissn.isbnissn:"]') #seems to be finding the isbn option in the first drop down
 isbn_option.click()
 
 
