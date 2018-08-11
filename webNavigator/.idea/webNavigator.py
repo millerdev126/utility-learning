@@ -2,9 +2,10 @@
 This script is designed specifically for downloading 500+ academic papers from a website.
 (https://dl.acm.org/advsearch.cfm?coll=DL&dl=ACM)
 
-It is being worked on as a prototype.
+It is being worked on as a prototype by:
+Michael Miller
+8/11/18
 '''
-
 from selenium import webdriver
 
 isbn_list = ['978-1-4503-5589-6']
