@@ -18,12 +18,12 @@ driver = webdriver.Chrome(executable_path = "C:\\bin\\chromedriver.exe")
 driver.get("https://dl.acm.org/advsearch.cfm?coll=DL&dl=ACM")
 
 # select the 'Where' drop down and click it
-criteria_1 = driver.find_element_by_id("fld0")
-criteria_1.click()
+#criteria_1 = driver.find_element_by_id("fld0")
+#criteria_1.click()
 
 # select the 'Title' option and click it
-title_option = driver.find_element_by_css_selector('[value = "acmdlTitle:"]')
-title_option.click()
+#title_option = driver.find_element_by_css_selector('[value = "acmdlTitle:"]')
+#title_option.click()
 
 # find the entry field for the first search criteria and enter
 title_box = driver.find_element_by_id("val0")
@@ -33,15 +33,15 @@ title_box.send_keys(article_titles[0])
 add_crit = driver.find_element_by_id("add0")
 add_crit.click()
 
-driver.implicitly_wait(2)
+#driver.implicitly_wait(2)
 
 # find criteria 2 drop down and click it
-criteria_2 = driver.find_element_by_id('fld1')
-criteria_2.click()
+#criteria_2 = driver.find_element_by_id('fld1')
+#criteria_2.click()
 
 # find and select the isbn/issn option
-isbn_option = driver.find_element_by_css_selector('[value = "isbnissn.isbnissn:"]') #seems to be finding the isbn option in the first drop down
-isbn_option.click()
+#isbn_option = driver.find_element_by_css_selector('[value = "isbnissn.isbnissn:"]') #seems to be finding the isbn option in the first drop down
+#isbn_option.click()
 
 
 # find the input field for criteria 2
