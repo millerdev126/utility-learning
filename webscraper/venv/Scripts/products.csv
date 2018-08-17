@@ -1,6 +1,6 @@
 Category, Brand, Product_Name, Shipping Costs, Price 
 Desktop Memory,Corsair,CORSAIR Vengeance LED 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3000 (PC4 24000) Desktop Memory Model CMU16GX4M2C3000C15,$0.99 Shipping,164.99
-Desktop Memory,G.SKILL,G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Intel Z170 Platform / Intel X99 Platform Desktop Memory Model F4-2400C15D-16GVR,$0.99 Shipping,154.99
+Desktop Memory,G.SKILL,G.SKILL Ripjaws V Series 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Intel Z170 Platform / Intel X99 Platform Desktop Memory Model F4-2400C15D-16GVR,$0.99 Shipping,149.99
 Desktop Memory,Corsair,CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Memory Kit Model CMK16GX4M2A2400C14R,$0.99 Shipping,149.99
 Desktop Memory,GeIL,GeIL EVO POTENZA 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Desktop Memory Model GPR416GB2400C16DC,$0.99 Shipping,147.99
 Desktop Memory,ADATA,ADATA XPG GAMMIX D10 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3000 (PC4 24000) Desktop Memory Model AX4U300038G16-DRG,$0.99 Shipping,163.99
@@ -13,7 +13,7 @@ Desktop Memory,Corsair,CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin DDR4 SDRAM D
 Desktop Memory,Ballistix,Ballistix Tactical Tracer 16GB (2 x 8GB) DDR4 2666MHz DRAM (Desktop Memory) CL16 1.2V RGB DIMM (288-pin) BLT2K8G4D26BFT4K (Intel XMP- AMD Ryzen),$0.99 Shipping,173.04
 Desktop Memory,G.SKILL,G.SKILL Flare X Series 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 (PC4 25600) AMD X370 / B350 Memory (Desktop Memory) Model F4-3200C14D-16GFX,$0.99 Shipping,229.99
 Desktop Memory,GeIL,GeIL EVO POTENZA 8GB (2 x 4GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Desktop Memory Model GPR48GB2400C16DC,$0.99 Shipping,77.99
-Desktop Memory,ADATA,ADATA XPG GAMMIX D10 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Desktop Memory Model AX4U240038G16-DRG,$0.99 Shipping,155.99
+Desktop Memory,ADATA,ADATA XPG GAMMIX D10 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2400 (PC4 19200) Desktop Memory Model AX4U240038G16-DRG,$0.99 Shipping,145.99
 Desktop Memory,G.SKILL,G.SKILL Ripjaws V Series 32GB (2 x 16GB) 288-Pin DDR4 SDRAM DDR4 3200 (PC4 25600) Intel Z170 Platform Desktop Memory Model F4-3200C16D-32GVK,$0.99 Shipping,329.99
 Desktop Memory,Patriot Memory,Patriot Viper 4 8GB (2 x 4GB) 288-Pin DDR4 SDRAM DDR4 3000 (PC4 24000) Extreme Performance Memory- Black Sides / Red Top Model PV48G300C6K PV48G300C6K,$0.99 Shipping,89.99
 Desktop Memory,Corsair,CORSAIR Vengeance LPX 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 2666 (PC4 21300) Desktop Memory Model CMK16GX4M2A2666C16W,$0.99 Shipping,162.99
@@ -59,7 +59,7 @@ Processors - Desktops,AMD,AMD A10-9700 Bristol Ridge Quad-Core 3.5 GHz Socket AM
 Processors - Desktops,AMD,AMD CPU FX-8350 Black Edition 4.0 GHz (4.2 GHz Turbo) Socket AM3+ FD8350FRHKHBX Desktop Processor with AMD Wraith Cooler,Free Shipping,139.99
 Processors - Desktops,AMD,AMD FX-8320 Vishera 8-Core 3.5 GHz (4.0 GHz Turbo) Socket AM3+ 125W FD8320FRHKBOX Desktop Processor,Free Shipping,173.89
 Processors - Desktops,AMD,AMD A8-9600 Bristol Ridge Quad-Core 3.1 GHz Socket AM4 65W AD9600AGABBOX Desktop Processor Radeon R7,Free Shipping,67.99
-Processors - Desktops,AMD,AMD FX-8320E Vishera 8-Core 3.2GHz (4.0GHz Turbo) Socket AM3+ 95W FD832EWMHKBOX Desktop Processor,Free Shipping,119.30
+Processors - Desktops,AMD,AMD FX-8320E Vishera 8-Core 3.2GHz (4.0GHz Turbo) Socket AM3+ 95W FD832EWMHKBOX Desktop Processor,Free Shipping,119.3
 Processors - Desktops,AMD,AMD FX-4300 Vishera Quad-Core 3.8 GHz Socket AM3+ 95W FD4300WMHKBOX Desktop Processor,Free Shipping,66.58
 Processors - Desktops,AMD,AMD RYZEN 3 1200 4-Core 3.1 GHz (3.4 GHz Turbo) Socket AM4 65W YD1200BBAEBOX Desktop Processor,Free Shipping,108.39
 Processors - Desktops,AMD,AMD FX-8370 with AMD Wraith Cooler Vishera 8-Core 4.0 GHz (4.3 GHz Turbo) Socket AM3+ 125W FD8370FRHKHBX Desktop Processor,Free Shipping,198.85
@@ -75,40 +75,40 @@ Processors - Desktops,AMD,AMD A8-7650K with AMD quiet cooler Quad-Core Socket FM
 Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1080 DirectX 12 GV-N1080WF3OC-8GD 8GB 256-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Card,Free Shipping,469.99
 Desktop Graphics Cards,ASUS,ASUS Radeon RX 580 DirectX 12 DUAL-RX580-O8G 8GB 256-Bit GDDR5 HDCP Ready CrossFireX Support Video Card,Free Shipping,239.99
 Desktop Graphics Cards,Sapphire Tech,Sapphire PULSE Radeon RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP OC w/ Backplate (UEFI)- 100411P8GOCL,Free Shipping,239.99
-Desktop Graphics Cards,PNY Technologies  Inc.,PNY GeForce GTX 1060 DirectX 12 VCGGTX10606XGPB-OC2 6GB 192-Bit GDDR5 PCI Express 3.0 x16 Video Card,$4.99 Shipping,279.99
+Desktop Graphics Cards,PNY Technologies  Inc.,PNY GeForce GTX 1060 DirectX 12 VCGGTX10606XGPB-OC2 6GB 192-Bit GDDR5 PCI Express 3.0 x16 Video Card,Free Shipping,279.99
 Desktop Graphics Cards,MSI,MSI GeForce GTX 1070 DirectX 12 GTX 1070 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,Free Shipping,389.99
 Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1080 Ti DirectX 12 ZT-P10810G-10P 11GB 352-Bit GDDR5X PCI Express 3.0 HDCP Ready SLI Support Video Card,Free Shipping,649.99
-Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 Ti FTW3 DT DirectX 12 11G-P4-6694-KR 11GB 352-Bit GDDR5X PCI Express 3.0 HDCP Ready SLI Support Video Card,$4.99 Shipping,689.99
-Desktop Graphics Cards,MSI,MSI Radeon RX Vega 64 DirectX 12 Radeon RX Vega 64 Air Boost 8G OC 8GB 2048-Bit HBM2 PCI Express x16 HDCP Ready CrossFireX Support Video Card,Free Shipping,549.99
-Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1060 DirectX 12 GV-N1060WF2OC-6GD 6GB 192-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,$4.99 Shipping,279.99
+Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1060 DirectX 12 GV-N1060WF2OC-6GD 6GB 192-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,Free Shipping,279.99
 Desktop Graphics Cards,ASUS,ASUS ROG GeForce GTX 1080 Ti DirectX 12 STRIX-GTX1080TI-11G-GAMING 11GB 352-Bit GDDR5X HDCP Ready SLI Support Video Card,Free Shipping,719.99
-Desktop Graphics Cards,MSI,MSI GeForce GTX 1080 Ti DirectX 12 GTX 1080 Ti DUKE 11G OC 11GB 352-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,$4.99 Shipping,659.99
+Desktop Graphics Cards,MSI,MSI Radeon RX 580 DirectX 12 Radeon RX 580 8G V1 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,Free Shipping,249.99
+Desktop Graphics Cards,MSI,MSI GeForce GTX 1080 Ti DirectX 12 GTX 1080 Ti DUKE 11G OC 11GB 352-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,Free Shipping,659.99
 Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1050 DirectX 12 GV-N1050OC-2GD 2GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,$4.99 Shipping,129.99
-Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1080 Ti AMP Edition 11GB GDDR5X 352-bit Gaming Graphics Card VR Ready 16+2 Power Phase Freeze Fan Stop IceStorm Cooling Spectra Lighting ZT-P10810D-10P,$4.99 Shipping,679.99
 Desktop Graphics Cards,ASUS,ASUS GeForce GTX 1070 Ti CERBERUS-GTX1070TI-A8G-GAMING 8GB 256-Bit GDDR5 PCI Express 3.0 HDCP Ready Video Card,Free Shipping,449.99
-Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500E-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Low Profile Video Card,$3.99 Shipping,129.99
+Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1050 DirectX 12 ZT-P10500E-10L 2GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Low Profile Video Card,Free Shipping,129.99
 Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 SC GAMING ACX 3.0- 08G-P4-6183-KR- 8GB GDDR5X- LED- DX12 OSD Support (PXOC),Free Shipping,469.99
-Desktop Graphics Cards,ASUS,ASUS ROG GeForce GTX 1080 STRIX-GTX1080-A8G-GAMING 8GB 256-Bit GDDR5X PCI Express 3.0 HDCP Ready Video Card,$4.99 Shipping,609.99
 Desktop Graphics Cards,MSI,MSI GeForce GTX 1080 DirectX 12 GTX 1080 AERO 8G OC 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,Free Shipping,469.99
-Desktop Graphics Cards,MSI,MSI GeForce GTX 1060 DirectX 12 GeForce GTX 1060 GAMING 6G 6GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,$4.99 Shipping,299.99
-Desktop Graphics Cards,MSI,MSI GeForce GTX 1060 DirectX 12 GTX 1060 GAMING X 6G 6GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,$4.99 Shipping,329.99
+Desktop Graphics Cards,MSI,MSI GeForce GTX 1060 DirectX 12 GeForce GTX 1060 GAMING 6G 6GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,Free Shipping,299.99
+Desktop Graphics Cards,MSI,MSI GeForce GTX 1060 DirectX 12 GTX 1060 GAMING X 6G 6GB 192-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready ATX Video Card,Free Shipping,329.99
 Desktop Graphics Cards,MSI,MSI GeForce GTX 1080 DirectX 12 GTX 1080 GAMING X 8G 8GB 256-Bit GDDR5X PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,Free Shipping,499.99
-Desktop Graphics Cards,ASRock,ASRock Phantom Gaming X Radeon RX 580 DirectX 12 RX580 8G OC 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready Video Card,$4.99 Shipping,299.99
-Desktop Graphics Cards,GIGABYTE,GIGABYTE AORUS GeForce GTX 1080 Ti DirectX 12 GV-N108TAORUS-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Card,$4.99 Shipping,729.99
-Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 Ti FTW3 ELITE GAMING BLACK- 11G-P4-6796-K2- 11GB GDDR5X- iCX Technology - 9 Thermal Sensors &amp; RGB LED G/P/M,$4.99 Shipping,709.99
-Desktop Graphics Cards,Sapphire Tech,Sapphire Radeon NITRO+ RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP w/ Backplate SPECIAL EDITION (UEFI)- 100411NT+8GSEL,$4.99 Shipping,309.99
-Desktop Graphics Cards,MSI,MSI GeForce GTX 1070 Ti DirectX 12 GTX 1070 Ti GAMING 8G 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,$4.99 Shipping,479.99
-Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1050 Ti DirectX 12 ZT-P10510A-10L 4GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini Video Card,$4.99 Shipping,169.00
+Desktop Graphics Cards,GIGABYTE,GIGABYTE AORUS GeForce GTX 1080 Ti DirectX 12 GV-N108TAORUS-11GD 11GB 352-Bit GDDR5X PCI Express 3.0 x16 SLI Support ATX Video Card,Free Shipping,729.99
+Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 Ti FTW3 ELITE GAMING BLACK- 11G-P4-6796-K2- 11GB GDDR5X- iCX Technology - 9 Thermal Sensors &amp; RGB LED G/P/M,Free Shipping,709.99
+Desktop Graphics Cards,MSI,MSI Radeon RX Vega 64 DirectX 12 Radeon RX Vega 64 Air Boost 8G OC 8GB 2048-Bit HBM2 PCI Express x16 HDCP Ready CrossFireX Support Video Card,Free Shipping,549.99
+Desktop Graphics Cards,GIGABYTE,GIGABYTE Radeon RX Vega 64 DirectX 12 GV-RXVEGA64GAMING OC-8GD 8GB 2048-Bit HBM2 PCI Express 3.0 x16 CrossFireX Support ATX Video Card,Free Shipping,569.99
+Desktop Graphics Cards,Sapphire Tech,Sapphire Radeon NITRO+ RX 580 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP w/ Backplate SPECIAL EDITION (UEFI)- 100411NT+8GSEL,Free Shipping,309.99
+Desktop Graphics Cards,MSI,MSI GeForce GTX 1070 Ti DirectX 12 GTX 1070 Ti GAMING 8G 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support ATX Video Card,Free Shipping,479.99
+Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1050 Ti DirectX 12 ZT-P10510A-10L 4GB 128-Bit GDDR5 PCI Express 3.0 HDCP Ready Mini Video Card,Free Shipping,169
 Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 DirectX 12 08G-P4-6684-KR 8GB 256-Bit GDDR5X PCI Express 3.0 SLI Support Video Card,$4.99 Shipping,499.99
 Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1070 FTW GAMING ACX 3.0- 08G-P4-6276-KR- 8GB GDDR5- RGB LED- 10CM FAN- 10 Power Phases- Double BIOS- DX12 OSD Support (PXOC),Free Shipping,499.99
 Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1080 Ti Turbo 11GD- GV-N108TTURBO-11GD,Free Shipping,689.99
-Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1070 Ti DirectX 12 08G-P4-6678-KR 8GB 256-Bit GDDR5 PCI Express 3.0 SLI Support Video Card,$4.99 Shipping,469.99
+Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1070 Ti DirectX 12 08G-P4-6678-KR 8GB 256-Bit GDDR5 PCI Express 3.0 SLI Support Video Card,Free Shipping,469.99
 Desktop Graphics Cards,EVGA,EVGA GeForce GTX 1080 Ti FTW3 GAMING- 11G-P4-6696-KR- 11GB GDDR5X- iCX Technology - 9 Thermal Sensors &amp; RGB LED G/P/M,Free Shipping,749.99
 Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1080 Mini- ZT-P10800H-10P- 8GB GDDR5X IceStorm Cooling- Dual Fans- 90mm Pressure Optimized Fan- 100mm Maximum Airflow Optimized Fan- Direct GPU Copper Block Contact- Metal Back Plate,$4.99 Shipping,449.99
-Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1050 Ti DirectX 12 GV-N105TWF2OC-4GD 4GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,$4.99 Shipping,189.99
-Desktop Graphics Cards,MSI,MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,$3.99 Shipping,279.99
-Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1080 G1 Gaming GV-N1080G1 GAMING-8GD Video Card,$4.99 Shipping,519.99
-Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1070 Ti DirectX 12 GV-N107TWF2-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card,$4.99 Shipping,459.99
+Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1050 Ti DirectX 12 GV-N105TWF2OC-4GD 4GB 128-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card,Free Shipping,189.99
+Desktop Graphics Cards,MSI,MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC 8GB 256-Bit GDDR5 PCI Express x16 HDCP Ready CrossFireX Support Video Card,Free Shipping,279.99
+Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1080 G1 Gaming GV-N1080G1 GAMING-8GD Video Card,Free Shipping,519.99
+Desktop Graphics Cards,GIGABYTE,GIGABYTE GeForce GTX 1070 Ti DirectX 12 GV-N107TWF2-8GD 8GB 256-Bit GDDR5 PCI Express 3.0 x16 SLI Support ATX Video Card,Free Shipping,459.99
+Desktop Graphics Cards,MSI,MSI GeForce GTX 1070 Ti DirectX 12 GTX 1070 Ti DUKE 8G 8GB 256-Bit GDDR5 PCI Express 3.0 x16 HDCP Ready SLI Support Video Card,$4.99 Shipping,469.99
+Desktop Graphics Cards,ZOTAC,ZOTAC GeForce GTX 1080 Ti AMP Edition 11GB GDDR5X 352-bit Gaming Graphics Card VR Ready 16+2 Power Phase Freeze Fan Stop IceStorm Cooling Spectra Lighting ZT-P10810D-10P,Free Shipping,679.99
 AMD Motherboards,ASUS,ASUS ROG STRIX B450-F GAMING AM4 AMD B450 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,Free Shipping,129.99
 AMD Motherboards,ASRock,ASRock AB350 Pro4 AM4 AMD Promontory B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$3.99 Shipping,89.99
 AMD Motherboards,ASUS,ASUS ROG STRIX B350-F GAMING AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,Free Shipping,121.76
@@ -116,7 +116,7 @@ AMD Motherboards,ASUS,ASUS ROG STRIX B450-F GAMING AM4 AMD B450 SATA 6Gb/s USB 3
 AMD Motherboards,GIGABYTE,GIGABYTE GA-970A-DS3P (rev. 2.0) AM3+ AMD 970 SATA 6Gb/s USB 3.0 ATX AMD Motherboard,$1.99 Shipping,69.99
 AMD Motherboards,MSI,MSI B350M Gaming PRO AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard,Free Shipping,69.99
 AMD Motherboards,MSI,MSI X470 GAMING PLUS AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$0.99 Shipping,129.99
-AMD Motherboards,ASRock,ASRock X470 Master SLI/AC AM4 AMD Promontory X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$3.99 Shipping,147.00
+AMD Motherboards,ASRock,ASRock X470 Master SLI/AC AM4 AMD Promontory X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$3.99 Shipping,147
 AMD Motherboards,ASUS,ASUS Prime X470-Pro AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,Free Shipping,154.99
 AMD Motherboards,ASRock,ASRock Fatal1ty AB350 Gaming-ITX/ac AM4 AMD Promontory B350 SATA 6Gb/s USB 3.1 HDMI Mini ITX AMD Motherboard,$3.99 Shipping,
 AMD Motherboards,ASRock,ASRock A320M-HDV AM4 AMD Promontory A320 SATA 6Gb/s USB 3.0 HDMI Micro ATX AMD Motherboard,$3.99 Shipping,49.99
@@ -124,8 +124,8 @@ AMD Motherboards,GIGABYTE,GIGABYTE GA-78LMT-USB3 R2 AM3+/AM3 AMD 760G USB 3.1 HD
 AMD Motherboards,MSI,MSI B450 GAMING PRO CARBON AC AM4 AMD B450 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$2.99 Shipping,129.99
 AMD Motherboards,ASRock,ASRock B450M PRO4 AM4 AMD B450 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard,$2.99 Shipping,79.99
 AMD Motherboards,GIGABYTE,GIGABYTE AB350M-DS3H AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI Micro ATX AMD Motherboard,$2.99 Shipping,64.99
-AMD Motherboards,ASRock,ASRock X470 Taichi AM4 AMD Promontory X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$3.99 Shipping,213.00
-AMD Motherboards,MSI,MSI B350 PC MATE AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$1.99 Shipping,83.99
+AMD Motherboards,ASRock,ASRock X470 Taichi AM4 AMD Promontory X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$0.99 Shipping,209.99
+AMD Motherboards,MSI,MSI B350 PC MATE AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$1.99 Shipping,82.99
 AMD Motherboards,GIGABYTE,GIGABYTE GA-AB350-GAMING 3 (rev. 1.0) AM4 AMD B350 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,$1.99 Shipping,84.99
 AMD Motherboards,GIGABYTE,GIGABYTE X470 AORUS ULTRA GAMING AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,Free Shipping,139.99
 AMD Motherboards,ASUS,ASUS ROG Strix X470-F Gaming AM4 AMD X470 SATA 6Gb/s USB 3.1 HDMI ATX AMD Motherboard,Free Shipping,199.99
