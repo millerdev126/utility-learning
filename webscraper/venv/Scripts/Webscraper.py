@@ -3,13 +3,10 @@ Tool for scraping product data from Newegg.com
 It grabs data regarding category, brand, product name, shipping
 and price for each page it looks at.
 
-Current Issues: Doesn't seem to be running full code. Suspect
-                 issue with pyCharm, and not the script. I've
-                 commented out the document writing while I
-                 troubleshoot the scraping issues.
+Current Issues: No current issues. Script works as intended.
 
 Michael Miller
-8/14/18
+8/17/18
 """
 
 from bs4 import BeautifulSoup as soup
@@ -34,11 +31,12 @@ f.write(headers)
 
 # Opening connection, storing page, closing connection
 for url in my_url:
+
+    # sort through all the target web pages
     uClient = uReq(my_url[url_count])
     page_html = uClient.read()
     uClient.close()
     url_count = 1 + url_count
-    print(url_count)
 
     # Html parsing
     page_soup = soup(page_html, "html.parser")
@@ -51,6 +49,7 @@ for url in my_url:
 
         # grab brand name
         brand = container.div.div.a.img["title"]
+        brand = brand.replace(",", " ")
 
         # grab item title
         title_container = container.findAll("a", {"class": "item-img"})
@@ -63,18 +62,24 @@ for url in my_url:
 
         # find price for each item
         site_price = container.findAll("li", {"class": "price-current"})
-        final_price = site_price[0].text.strip()
-        final_price = final_price.partition("$")[2].partition("(")[0]
+
+        # clear away html junk around price
+        if site_price[0].a is None:
+            # simply remove the extra space around the price
+            final_price = site_price[0].text
+            final_price = final_price.partition("$")[2].partition(" ")[0]
+            final_price = final_price.strip()
+        else:
+            # Strip the extra html off the text
+            final_price = site_price[0].text
+            final_price = final_price.partition("$")[2].partition("(")[0]
+            final_price = final_price.partition(" ")[0]
+            final_price = final_price.replace(",", "")
+            final_price = final_price.strip()
 
         # print data so far
-        '''
-        print("Category: " + category)
-        print("Brand: " + brand)
-        print("Product Name: " + product_name)
-        print("Shipping: " + shipping)
-        print("Price: " + final_price)
-        '''
-        f.write(category + "," + brand + "," + product_name.replace(",", "-") + "," + shipping + "," + final_price + '\n')
+        f.write(category + "," + brand + "," + product_name.replace(",", "-") + "," +
+                shipping + "," + final_price + '\n')
 
 f.close()
 print("Done")
