@@ -3,7 +3,7 @@ import pandas as pd
 headers = ["Category", "Brand", "Product_Name", "Shipping", "Price"]
 
 xl = pd.ExcelFile("C:\\Users\\mmiller3\\Desktop\\products.xlsx")
-df = xl.parse("products")
+df = xl.parse("products", names=headers)
 print(df)
 
 df = df.sort_values(by=headers[4], axis='columns', na_position='last')
